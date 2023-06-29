@@ -1,0 +1,39 @@
+html {
+    font-family: "Crimson Text";
+    color: rgb(26, 156, 0);
+    background: purple
+}
+
+.fontext {
+    text-align: center;
+    font-size: 55px;
+    text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+    ;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    ;
+}
+
+.info {
+    padding: 30px 0 30px;
+}
+
+.box {
+    background: white;
+    padding: 40px 20px 40px;
+    border-radius: 30px;
+}
+
+.text {
+    font-size: 20px;
+}
+
+img {
+    width: 300px;
+    border-radius: 30px;
+    /* display: block;
+    margin: 0 0 0 auto; */
+}
